@@ -1,0 +1,16 @@
+.sitebar {
+    background-color: bisque;
+}
+h1 {
+    color: blue;
+}
+
+.sitebar__name {}
+
+.sitebar__job {}
+
+.sitebar__contacts {}
+
+.sitebar__contacts-net {}
+
+.sitebar__skills {}
